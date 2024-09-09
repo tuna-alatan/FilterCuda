@@ -1,4 +1,4 @@
-# Low-pass Filter Using Shared Memmory in CUDA
+# Low-pass Filter Using Shared Memory in CUDA
 This is an application developed for getting experience with using shared memmory in CUDA. The results can be observed below.
 
 ## Input Image
